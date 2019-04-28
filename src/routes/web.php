@@ -4,7 +4,7 @@ use Illuminate\Http\Request;
 
 
 
-Route::group(['namespace'=>'wignerll\container\Http\Controllers'],function(){
+Route::group(['namespace'=>'wignerll\swpp\Http\Controllers'],function(){
     
     ///USUARIOS
     Route::get('home','UsuarioController@index');

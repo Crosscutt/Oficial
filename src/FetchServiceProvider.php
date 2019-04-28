@@ -1,6 +1,6 @@
 <?php
 
-namespace wignerll\container;
+namespace wignerll\swpp;
 use Illuminate\Support\ServiceProvider;
 
 class FetchServiceProvider extends ServiceProvider{

@@ -1,6 +1,6 @@
 <?php
 
-namespace wignerll\container;
+namespace wignerll\swpp;
 
 use Illuminate\Database\Eloquent\Model;
 
